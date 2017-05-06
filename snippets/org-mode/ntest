@@ -1,0 +1,21 @@
+# -*- mode: snippet -*-
+# name: New Web App Test
+# key: ntest
+# --
+* $1
+#+NAME: $2
+#+START_DATE: $3
+#+END_DATE: Date Ended
+*** Notes
+*** Findings
+*** Checklist [0%]
+- [ ] Verify Findings
+- [ ] Write Report
+- [ ] Peer review Report
+- [ ] Risk Management
+- [ ] Write Risk Acceptance, if needed
+- [ ] Send Report
+- [ ] Review project pipeline jobs
+- [ ] Update Dashboard
+- [ ] Enter Stories
+- [ ] Automate Stories

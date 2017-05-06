@@ -1,0 +1,73 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu May  4 17:19:57 2017
+;; Desktop file format version 208
+;; Emacs version 25.1.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22795 50477 443191 0) (desktop . "208") "gl42ben@mgcc119058" nil nil ((((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#657b83") (background-color . "#fdf6e3") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . light) (cursor-color . "#586e75") (environment) (border-color . "#eee8d5") (frameset--id . "B6A7-D01F-D811-9FBC") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "mgcc119058") (explicit-name) (tool-bar-position . top) (height . 44) (width . 163) (left . 730) (top . 38)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 56) (min-pixel-width . 70) (min-pixel-height-ignore . 42) (min-pixel-width-ignore . 35) (min-pixel-height-safe . 14) (min-pixel-width-safe . 14)) leaf (pixel-width . 1157) (pixel-height . 602) (total-width . 165) (total-height . 43) (normal-height . 1.0) (normal-width . 1.0) (buffer "todo.org —£À Dropbox" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 15332) (start . 1))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("yas-new-snippet" "buffer-menu" "yas-new-snippet" "yas-minor-mode" "yas-insert-snippet" "yas-expand" "yas-new-snippet" "list-packages" "package-install" "org-capture" "ac-complete-yasnippet" "package-install" "org-mode"))
+(setq face-name-history nil)
+(setq file-name-history '("/Users/gl42ben/Dropbox/todo.org" "/Users/gl42ben/Dropbox/Work/javascript.org" "~/Dropbox/Work/todo.org_archive" "~/.emacs.d/elpa/yasnippet-20170418.351/yasnippet-autoloads.el" "~/.emacs.d/custom.el" "~/.notes" "~/.emacs.d/custom.el" "~/Dropbox/Work/todo.org" "/Users/gl42ben/Dropbox/todo.org" "/Users/gl42ben/Dropbox/Work/todo.org" "~/.emacs.d/custom.el" "/Users/gl42ben/Dropbox/Work/todo.org" "~/.emacs.d/custom.el" "~/.emacs.d/elpa/json-mode-20170418.1900/json-mode-autoloads.el" "~/.emacs.d/elpa/json-reformat-20160212.53/json-reformat-autoloads.el" "~/.emacs.d/elpa/json-snatcher-20150511.2047/json-snatcher-autoloads.el" "~/.emacs.d/custom.el"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ido-buffer-history '("*Packages*" "todo.org —£À Dropbox" "*Help*" "*Warnings*" "*Compile-Log*" "*Buffer List*" "javascript.org" "todo.org_archive" "dai" "lea"))
+(setq ido-last-directory-list '(("/Users/gl42ben/Dropbox/" . "Work/") ("/Users/gl42ben/" . "Dropbox/")))
+(setq ido-work-directory-list '("/Users/gl42ben/Dropbox/" "/Users/gl42ben/Dropbox/Work/"))
+(setq ido-work-file-list '("todo.org" "javascript.org"))
+(setq minibuffer-history '("org-mode" "json-mode"))
+(setq org-refile-history nil)
+(setq org-tags-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq search-ring '("yas"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/gl42ben/Dropbox/todo.org"
+  "todo.org"
+  'org-mode
+  '(anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode page-break-lines-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode flycheck-mode org-indent-mode)
+  15332
+  '(15220 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/gl42ben/Dropbox/Work/todo.org"
+  "todo.org"
+  'org-mode
+  '(anzu-mode auto-complete-mode global-auto-revert-mode undo-tree-mode page-break-lines-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode flycheck-mode org-indent-mode yas-minor-mode)
+  2356
+  '(1553 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t))
+  '((mark-ring (2271 2271 2271 2009 2009 2009 7512 7512 7512 7499 7499 2009 2009 2009 9060 10828))))
+
+(desktop-create-buffer 208
+  "/Users/gl42ben/.notes"
+  ".notes"
+  'fundamental-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode whitespace-cleanup-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  nil
+  '((mark-ring nil)))
+

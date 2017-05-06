@@ -1,0 +1,25 @@
+
+;; ----- smex-history -----
+(
+ yas-new-snippet
+ buffer-menu
+ yas-minor-mode
+ yas-insert-snippet
+ yas-expand
+ list-packages
+ package-install
+)
+
+;; ----- smex-data -----
+(
+ (org-mode . 1)
+ (package-install . 2)
+ (ac-complete-yasnippet . 1)
+ (org-capture . 3)
+ (list-packages . 1)
+ (yas-new-snippet . 5)
+ (yas-expand . 2)
+ (yas-insert-snippet . 1)
+ (yas-minor-mode . 1)
+ (buffer-menu . 1)
+)

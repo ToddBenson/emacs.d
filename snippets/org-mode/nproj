@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: New Project
+# key: nproj
+# --
+** $1
+#+NAME: ProjectName
+- Objective $2 :: $3
+  1. Objective note
+  2. Objective note
+- File ::
+*** Tasks
+*** Notes
+$0

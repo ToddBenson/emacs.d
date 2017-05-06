@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# name: Daily
+# key: dai
+# --
+* Daily [0%]
+: Standup
+- [ ] Today's Goal: $1
+- [ ] 3 Most Important Tasks
+  1. [ ] $2
+  2. [ ] $3
+  3. [ ] $4
+: Retro
+- [ ] Wins
+- [ ] Lessons Learned
+$0

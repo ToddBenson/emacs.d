@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: Learning
+# key: lea
+# --
+*Things I don't know about* /*$1*/
+* INBOX
+* Tasks
+* Pomodoros
+* Terms
+- term1 :: definition
+- term2 :: definition
+* Notes
+* References
+- Links
+- Books
+- Videos
+$0
