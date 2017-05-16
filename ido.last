@@ -2,6 +2,8 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/gl42ben/.emacs.d/snippets/" . "org-mode/")
+ ("/Users/gl42ben/.emacs.d/" . "snippets/")
  ("/Users/gl42ben/Dropbox/" . "Work/")
  ("/Users/gl42ben/" . "Dropbox/")
 )
@@ -10,24 +12,34 @@
 (
  "/Users/gl42ben/Dropbox/"
  "/Users/gl42ben/Dropbox/Work/"
+ "/Users/gl42ben/.emacs.d/"
+ "/Users/gl42ben/.emacs.d/snippets/org-mode/"
 )
 
 ;; ----- ido-work-file-list -----
 (
  "todo.org"
  "javascript.org"
+ "init.el"
+ "Pomodoro"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/gl42ben/Dropbox/" (22795 27457 0 0) "Work/" "todo.tex" "todo.org_archive" "todo.org" "SELF Journal - Download.pdf" "Security Pipeline Checks.docx" "screenshot.png" "python coursera.odt" "Photos/" "OWASP Consumer Top Ten Safe Web Habits.docx" "Notebooks.odt" "Lab Notebook Ideas.odt" "Ideas.odt" "Icon
+ ("/Users/gl42ben/Dropbox/Work/" (22809 58711 0 0) "Vulnerabilities.xlsx" "tools.txt" "todo.org_archive" "todo.org" "Test Data/" "SSP/" "Security Stories.org" "Security Pipeline Checks.docx" "SecDevOps.org" "screenshot.png" "S3.docx" "ProgrammingNotes-Python.org" "Productivity.docx" "Presentation1.pptx" "Logging.docx" "javascript.org" "hobbies.txt" "goals.txt" "Example Control.xlsx" "es.org" "emmber.org" "eMember Simplified Registration Flow.docx" "elasticsearch.org" "Digital Services Coding Standard Statement.docx" "devopssec.pdf" "DevOps Security Maturity Model.docx" "DevOps Security Maturity Model 1.0.docx" "DevOps and Security Notes.odt" "DevOps and Security Notes.docx" "CVSS Scores.xlsx" "Checklist.odt" "Books/" "AWS_Auditing_Security_Checklist.pdf" "800-53-controls - Working File.xls" "2016 State of DevOps Report_0.pdf" ".DS_Store" ".#todo.org" "#todo.org#" "../" "./")
+
+ ("/Users/gl42ben/Dropbox/" (22809 53936 0 0) "Work/" "todo.tex" "todo.org_archive" "todo.org" "SELF Journal - Download.pdf" "Security Pipeline Checks.docx" "screenshot.png" "python coursera.odt" "Photos/" "OWASP Consumer Top Ten Safe Web Habits.docx" "Notebooks.odt" "LicenseCertificate-A505112.pdf" "Lab Notebook Ideas.odt" "Ideas.odt" "Icon
 " "Archive/" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
 
- ("/Users/gl42ben/Dropbox/Work/" (22795 27541 0 0) "Vulnerabilities.xlsx" "tools.txt" "todo.org_archive" "todo.org" "Test Data/" "SSP/" "Security Stories.org" "Security Pipeline Checks.docx" "SecDevOps.org" "screenshot.png" "S3.docx" "ProgrammingNotes-Python.org" "Productivity.docx" "Presentation1.pptx" "Logging.docx" "javascript.org" "hobbies.txt" "goals.txt" "Example Control.xlsx" "es.org" "emmber.org" "eMember Simplified Registration Flow.docx" "elasticsearch.org" "Digital Services Coding Standard Statement.docx" "devopssec.pdf" "DevOps Security Maturity Model.docx" "DevOps Security Maturity Model 1.0.docx" "DevOps and Security Notes.odt" "DevOps and Security Notes.docx" "CVSS Scores.xlsx" "Checklist.odt" "Books/" "AWS_Auditing_Security_Checklist.pdf" "800-53-controls - Working File.xls" "2016 State of DevOps Report_0.pdf" ".DS_Store" "../" "./")
+ ("/Users/gl42ben/" (22809 56457 0 0) "VirtualBox VMs/" "pysample/" "pyenv/" "Public/" "Pictures/" "MyVirtualMachines/" "Music/" "Movies/" "Library/" "HD_log.txt" "github/" "en-dynamic.lm/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "concourse.pub" "concourse" "CloudUserDictionary.sqlite" "Applications/" ".zshrc" ".zlogin" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".swt/" ".ssh/" ".sbt/" ".rvm/" ".rbenv/" ".pylint.d/" ".profile" ".pairs" ".oracle_jre_usage/" ".npm/" ".mkshrc" ".m2/" ".ivy2/" ".inputrc" ".idea-build/" ".gradle/" ".gr_fftw_wisdom" ".gnuradio/" ".gl42ben_HD_Quality.txt" ".gl42ben_Dns.txt" ".gitignore_global" ".gitconfig" ".gemrc" ".gem/" ".flyrc" ".emacs.d/" ".DS_Store" ".dropbox/" ".docker/" ".cups/" ".config/" ".CFUserTextEncoding" ".cf/" ".BurpSuite/" ".bashrc" ".bash_sessions/" ".bash_profile.pysave" ".bash_profile" ".bash_it/" ".bash_history" ".aws/" ".atom/" ".APKey.plist" ".account" "../" "./")
 
- ("/Users/gl42ben/.emacs.d/snippets/org-mode/" (22795 27033 0 0) "Pomodoro" "ntest" "nproj" "dai" "../" "./")
+ ("/Users/gl42ben/.emacs.d/" (22801 60634 0 0) "test-startup.sh" "target/" "snippets/" "site-lisp/" "recentf" "README.md" "lisp/" "LICENSE" "init.el" "ido.last" "history" "ensime-server/" "ensime/" "elpa/" "custom.el" "auto-save-list/" "ac-comphist.dat" ".smex-items" ".session" ".git/" ".emacs.desktop.lock" ".emacs.desktop" "../" "./")
 
- ("/Users/gl42ben/" (22793 65470 0 0) "VirtualBox VMs/" "pysample/" "pyenv/" "Public/" "Pictures/" "MyVirtualMachines/" "Music/" "Movies/" "Library/" "HD_log.txt" "github/" "en-dynamic.lm/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "concourse.pub" "concourse" "CloudUserDictionary.sqlite" "Applications/" ".zshrc" ".zlogin" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".swt/" ".ssh/" ".sbt/" ".rvm/" ".rbenv/" ".pylint.d/" ".profile" ".pairs" ".oracle_jre_usage/" ".npm/" ".mkshrc" ".m2/" ".ivy2/" ".inputrc" ".idea-build/" ".gradle/" ".gr_fftw_wisdom" ".gnuradio/" ".gl42ben_HD_Quality.txt" ".gl42ben_Dns.txt" ".gitignore_global" ".gitconfig" ".gemrc" ".gem/" ".flyrc" ".emacs.d/" ".DS_Store" ".dropbox/" ".docker/" ".cups/" ".config/" ".CFUserTextEncoding" ".cf/" ".BurpSuite/" ".bashrc" ".bash_sessions/" ".bash_profile.pysave" ".bash_profile" ".bash_it/" ".bash_history" ".aws/" ".atom/" ".APKey.plist" ".account" "../" "./")
+ ("/Users/" (22689 53786 0 0) "gl42ben/" ".localized" "../" "./")
+
+ ("/Users/gl42ben/.emacs.d/snippets/org-mode/" (22795 27213 0 0) "Pomodoro" "ntest" "nproj" "lea" "dai" "../" "./")
+
+ ("/Users/gl42ben/.emacs.d/snippets/" (22795 24854 0 0) "org-mode/" "../" "./")
 
  ("/Users/gl42ben/Documents/" (22774 18437 0 0) "Zoom/" "zap.yml" "Test Data/" "sp800-53r4_summary.pdf" "sp800-37-rev1-final.pdf" "s3-audit-notes.txt" "notes.txt" "nistspecialpublication800-39.pdf" "nistspecialpublication800-18r1.pdf" "nistspecialpublication800-137.pdf" "NIST.SP.800-160.pdf" "Microsoft User Data/" "logging.org" "FIPS-PUB-199-final.pdf" ".localized" ".DS_Store" "../" "./")
 )
